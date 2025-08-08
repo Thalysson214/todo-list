@@ -14,8 +14,9 @@ Uma aplicação simples e moderna para gerenciar suas tarefas, feita com **HTML 
 - JavaScript (DOM, Eventos, localStorage)
 
 ## 📸 Preview
-![preview](https://via.placeholder.com/800x400?text=To-Do+List+Preview)
+![preview](preview.png)
 
 ## 📦 Como usar
 1. Baixe ou clone este repositório
 2. Abra o `index.html` no navegador
+
